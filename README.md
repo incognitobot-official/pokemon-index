@@ -12,3 +12,5 @@ Features:
 - CSS
 
 [Click for Demo](https://incognitobot-official.github.io/pokemon_index/homepage.html)
+
+![alt preview](https://github.com/incognitobot-official/pokemon-index/blob/main/preview.png?raw=true)
